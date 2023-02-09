@@ -1,0 +1,3 @@
+[submodule "qrcode-component"]
+	path = qrcode-component
+	url = https://github.com/giodsdlm/qrcode-component
