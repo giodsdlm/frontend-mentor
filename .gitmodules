@@ -1,3 +1,6 @@
 [submodule "qrcode-component"]
 	path = qrcode-component
 	url = https://github.com/giodsdlm/qrcode-component
+[submodule "news-homepage"]
+	path = news-homepage
+	url = https://github.com/giodsdlm/news-homepage
